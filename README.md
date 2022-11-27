@@ -1,2 +1,1 @@
-# python-analytics-for-excel-users
-Python analytics for Excel users course resources
+## Python analytics for Excel users course resources
